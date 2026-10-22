@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Smart Pantry Manager</string>
+    <string name="title_pantry">My Pantry</string>
+    <string name="title_add_ingredient">Add Ingredient</string>
+    <string name="title_edit_ingredient">Edit Ingredient</string>
+    <string name="title_suggested">Suggested Recipes</string>
+    <string name="title_recipe_detail">Recipe</string>
+    <string name="title_settings">Settings</string>
+    <string name="nav_pantry">Pantry</string>
+    <string name="nav_recipes">Recipes</string>
+    <string name="nav_settings">Settings</string>
+
+    <string-array name="units">
+        <item>g</item>
+        <item>kg</item>
+        <item>ml</item>
+        <item>l</item>
+        <item>tsp</item>
+        <item>tbsp</item>
+        <item>cup</item>
+        <item>pcs</item>
+        <item>oz</item>
+        <item>lb</item>
+    </string-array>
+</resources>
